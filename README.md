@@ -1,4 +1,4 @@
-<p align=center># Care Deserts</p>
+<p style="text-align: center;"># Care Deserts</p>
 ### Nashville Software School
 ### Data Science Cohort 5
 #### Chris Mulvey
